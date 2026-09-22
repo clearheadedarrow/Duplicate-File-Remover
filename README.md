@@ -221,4 +221,4 @@ Duplicate File Remover is offered as a complete free version, allowing you to ut
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-21 21:34:15 UTC
+**Last updated:** 2026-09-22 00:29:49 UTC
